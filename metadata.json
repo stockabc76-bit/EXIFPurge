@@ -1,0 +1,5 @@
+{
+  "name": "EXIF Purge - Multi-language Image Privacy Tool",
+  "description": "Remove EXIF metadata from your images to protect your privacy. Supports multiple languages.",
+  "requestFramePermissions": []
+}
